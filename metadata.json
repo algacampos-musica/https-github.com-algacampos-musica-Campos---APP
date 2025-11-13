@@ -1,0 +1,5 @@
+{
+  "name": "Controle Financeiro",
+  "description": "Uma aplicação web para controle de despesas e receitas pessoais, permitindo ao usuário monitorar suas finanças de forma simples e visual, inspirado em designs de aplicativos de finanças populares.",
+  "requestFramePermissions": []
+}
