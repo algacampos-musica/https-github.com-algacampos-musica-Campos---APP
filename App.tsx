@@ -267,7 +267,7 @@ const App: React.FC = () => {
             </div>
             
             <div className="space-y-4 max-h-[40vh] overflow-y-auto pr-2">
-                <TransactionList transactions={filteredTransactions} categories={categories} onEdit={handleEditTransaction} onDelete={handleDeleteTransaction} />
+                <transactionList transactions={filteredTransactions} categories={categories} onEdit={handleEditTransaction} onDelete={handleDeleteTransaction} />
             </div>
             
             <div className="space-y-8">
