@@ -80,4 +80,4 @@ const TransactionList: React.FC<TransactionListProps> = ({ transactions, categor
   );
 };
 
-export default TransactionList;
+export default transactionList;
