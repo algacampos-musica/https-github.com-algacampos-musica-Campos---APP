@@ -3,7 +3,7 @@
 import React, { useState, useMemo } from 'react';
 import { Transaction, Category, TransactionType } from './types';
 import { INITIAL_CATEGORIES, INITIAL_TRANSACTIONS } from './constants';
-import transactionList from './components/transactionList';
+import transactionList from './components/TransactionList';
 import DonutChart from './components/donutChart';
 import CustomBarChart from './components/BarChart';
 import IncomeExpenseChart from './components/IncomeExpenseChart';
